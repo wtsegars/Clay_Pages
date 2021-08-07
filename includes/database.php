@@ -7,10 +7,10 @@
   */
 
 function getDB() {
-  $db_host = "localhost";
-  $db_name = "cms";
-  $db_user = "cms_www";
-  $db_pass = "!cH5DM5P]Cn))O7W";
+  $db_host = "";
+  $db_name = "";
+  $db_user = "";
+  $db_pass = "";
 
   $conn = mysqli_connect($db_host, $db_user, $db_pass, $db_name);
 
