@@ -1,9 +1,9 @@
 <?php
 
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'cms');
-define('DB_USER', 'cms_www');
-define('DB_PASS', '!cH5DM5P]Cn))O7W');
+define('DB_HOST', '');
+define('DB_NAME', '');
+define('DB_USER', '');
+define('DB_PASS', '');
 
 define('SMTP_HOST', 'mail@example.com');
 define('SMTP_USER', 'user@example.com');
