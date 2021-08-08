@@ -15,3 +15,23 @@ This is a template for a basic blog (or news website) that is written in PHP alo
 - Buttons allow user to go through each page of articles, will be greyed out and cannot be clicked if the user reaches the end of the articles:
 
 ![alt text](images/page_selectors.png) ![alt text](images/grey_selectors.png)
+
+- Login page for administrator to create, publish, delete, and update articles on the blog: 
+
+![alt text](images/login.png)
+
+- A contact form that can be uses PHPMailer to allows visitors to get in touch with the blog administrator via email:
+
+![alt text](images/contact.png)
+
+- Admin page where the blog administrator can view articles and add a new page:
+
+![alt text](images/admin_page.png)
+
+- New article page that can be accessed via the admin page, has three pre-set blog categories (more than one can be chosen):
+
+![alt text](images/new_article_page.png)
+
+- By clicking on an individual article, it allows the admin to edit, delete, or add an image to the article in question:
+
+![alt text](images/admin_controls.png)
