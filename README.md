@@ -28,7 +28,7 @@ This is a template for a basic blog (or news website) that is written in PHP alo
 
 ![alt text](images/admin_page.png)
 
-- New article page that can be accessed via the admin page, has three pre-set blog categories (more than one can be chosen):
+- New article page that can be accessed via the admin page, where it can be given a title, time and date published, content, and category (which is accessed from the database):
 
 ![alt text](images/new_article_page.png)
 
