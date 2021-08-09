@@ -36,4 +36,4 @@ This is a template for a basic blog (or news website) that is written in PHP alo
 
 ![alt text](images/admin_controls.png)
 
-In order to use 
+In order to use Clay Pages as is, the XAMPP app needs to be installed and properly configured to start it up. It can be downloaded from [here](https://www.apachefriends.org/download.html). As it is, Clay Pages requires the use of Apache Web Server, MariaDB and (by extension) MySQL. However, Clay Pages can be modified to use other database languages and/or server types. 
