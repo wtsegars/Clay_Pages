@@ -37,3 +37,5 @@ This is a template for a basic blog (or news website) that is written in PHP alo
 ![alt text](images/admin_controls.png)
 
 In order to use Clay Pages as is, the XAMPP app needs to be installed and properly configured to start it up. It can be downloaded from [here](https://www.apachefriends.org/download.html). As it is, Clay Pages requires the use of Apache Web Server, MariaDB and (by extension) MySQL. However, Clay Pages can be modified to use other database languages and/or server types. 
+
+Additionally, PHPMailer (version 6.5.0) is included with Clay Pages. The repository for PHPMailer can be found [here](https://github.com/PHPMailer/PHPMailer). Again, another program can be used to enable the mail function instead of PHPMailer. Just like with XAMPP, PHPMailer with have to be configured by the user.
